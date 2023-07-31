@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/KDAG_Project.git/static/css/main.329bc8df.css",
+    "main.js": "/KDAG_Project.git/static/js/main.490105c1.js",
+    "static/js/787.c64e5226.chunk.js": "/KDAG_Project.git/static/js/787.c64e5226.chunk.js",
+    "static/media/logo.svg": "/KDAG_Project.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/KDAG_Project.git/index.html",
+    "main.329bc8df.css.map": "/KDAG_Project.git/static/css/main.329bc8df.css.map",
+    "main.490105c1.js.map": "/KDAG_Project.git/static/js/main.490105c1.js.map",
+    "787.c64e5226.chunk.js.map": "/KDAG_Project.git/static/js/787.c64e5226.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.329bc8df.css",
+    "static/js/main.490105c1.js"
+  ]
+}
